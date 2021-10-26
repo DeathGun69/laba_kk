@@ -1,5 +1,6 @@
 <?php
 
+//
 //php index.php mode=1 surname=ivanov name=ivan midname=ivanovich
 //php index.php mode=2 id_patient=1
 //php index.php mode=3 surname=ivanov name=ivan midname=ivanovich oms=3029539554903272
